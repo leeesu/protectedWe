@@ -13,3 +13,6 @@ Database : oracle 11g<br>
 Web Server : Apache Tomcat 9.0.21<br>
 Framwork : Spring 4.0.9, JDBC, jQuery, BootStrap, MyBatis 3.2.1<br>
 Tool : eclipse, Oracle SQL Developer, GitHub
+
+### 프로젝트 발표
+<a href="https://youtu.be/qGeE3vKoyHs" target="_blank">발표 영상</a>
