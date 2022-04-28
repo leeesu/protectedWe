@@ -31,6 +31,15 @@
 * naver 로그인 API, naver 뉴스 API
 * cool SMS API, FullCalendar API, I’m port API
 
+## 기능
+*	Story Funding 서비스
+*	입양 중개 및 실종견 수색 서비스
+*	동물병원 정보검색 서비스
+*	정보 공유 서비스
+*	쇼핑몰 및 중고장터 서비스
+*	일반 회원관리 서비스
+*	무한스크롤, 자동완성 기능
+
 ## DB 모델링
 ![ERDDiagram](https://user-images.githubusercontent.com/50124537/64471708-be046b80-d18f-11e9-9d85-b595a724636a.jpg)
 
