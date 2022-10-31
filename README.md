@@ -53,7 +53,7 @@
 
 
 ### 영상
-<a href="https://www.youtube.com/watch?v=Kxh2ttsuJ24" target="_blank">구현 영상</a>
+[구현영상](https://youtu.be/7gLiixJsWUI)
 
 
 
