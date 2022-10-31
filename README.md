@@ -51,6 +51,9 @@
 ---  
 ![비트2](https://user-images.githubusercontent.com/50124537/119299289-97ef6980-bc99-11eb-8a78-e05855f63595.png)
 
+
 ### 영상
 <a href="https://www.youtube.com/watch?v=Kxh2ttsuJ24" target="_blank">구현 영상</a>
-<a href="https://www.youtube.com/watch?v=qGeE3vKoyHs" target="_blank">발표 영상</a>
+
+
+
