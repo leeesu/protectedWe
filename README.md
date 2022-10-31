@@ -43,7 +43,7 @@
 ![ERDDiagram](https://user-images.githubusercontent.com/50124537/64471708-be046b80-d18f-11e9-9d85-b595a724636a.jpg)
 
 ## 화면구성
-![main](https://user-images.githubusercontent.com/50124537/64471739-1cc9e500-d190-11e9-8476-b058fdcfc9d7.png)  
+<!--![main](https://user-images.githubusercontent.com/50124537/64471739-1cc9e500-d190-11e9-8476-b058fdcfc9d7.png)  -->
 
 ---  
 ![비트1](https://user-images.githubusercontent.com/50124537/119299256-8a39e400-bc99-11eb-858b-d4336d305ed4.png)  
